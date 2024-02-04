@@ -2,10 +2,12 @@
 
 **Main Objective:** Gain understanding of the app market by analyzing the Google Play Store Apps dataset.
 
-## Subgoals: 
+### Subgoals: 
 1. Recognize the features that lead to an app's success;
 2.  Examine user sentiments toward the app
 3. Make suggestions to app developers on how to improve the app performance and user experience of their apps.
+
+### SQL Quries: 
 
 - **Dataset Overview:** 
 
